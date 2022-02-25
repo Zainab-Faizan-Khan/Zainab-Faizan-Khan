@@ -20,10 +20,10 @@
 
 - 📫 How to reach me: ...
  
-📧 alishbaarshad90@gmail.com
+📧 zainabfaizan712@gmail.com
 
 or visit my profile at 
 
-[![linkedin](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/alishba-arshad-211148179/)
-[![instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=#E4405F)](https://www.instagram.com/alishbaarshad90/)
-[![whatsapp](https://img.shields.io/badge/Whatsapp-white?style=for-the-badge&logo=whatsapp&logoColor=green)](https://web.whatsapp.com/+92333029895)
+[![linkedin](https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/zainab-faizan-khan-633679196/)
+[![instagram](https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=#E4405F)](https://www.instagram.com/zai.sleepsio/)
+[![whatsapp](https://img.shields.io/badge/Whatsapp-white?style=for-the-badge&logo=whatsapp&logoColor=green)](https://web.whatsapp.com/+923323836297)
