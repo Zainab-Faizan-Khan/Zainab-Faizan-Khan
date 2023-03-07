@@ -1,6 +1,6 @@
 ### Hello There! 👋 I am *Zainab Faizan Khan*
  
- *A software engineering undergraduate student from NED University, a motivated and passionate Web and Android developer.* //
+ *A software engineering undergraduate student from NED University, a motivated and passionate Web and Android developer.* <br/>
  **Checkout my portfolio** https://zainabfaizankhan.netlify.app/
  
 - 🔭I have worked on
